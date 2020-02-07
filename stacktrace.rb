@@ -13,3 +13,6 @@ def f3
 end
 
 f1
+caller()
+
+p caller()
